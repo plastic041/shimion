@@ -1,12 +1,11 @@
 .editor-container {
   height: 100%;
   width: 100%;
+  display: grid;
 }
 
 .editor {
   padding: 3rem;
-  height: 100%;
-  width: 100%;
   border: none;
   outline: none;
   overflow: auto;
